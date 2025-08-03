@@ -20,15 +20,11 @@ Purchase Address: Alamat pengiriman.
 Dalam tahap pemrosesan awal, semua file ini digabungkan menjadi satu dataset tunggal untuk analisis yang komprehensif.
 
 Pustaka yang Digunakan
-pandas: Untuk manipulasi dan analisis data.
-
-numpy: Untuk operasi numerik.
-
-matplotlib & seaborn: Untuk visualisasi data.
-
-itertools & collections: Untuk analisis kombinasi produk.
-
-statsmodels: Untuk analisis statistik dan deret waktu.
+*pandas: Untuk manipulasi dan analisis data.
+*numpy: Untuk operasi numerik.
+*matplotlib & seaborn: Untuk visualisasi data.
+*itertools & collections: Untuk analisis kombinasi produk.
+*statsmodels: Untuk analisis statistik dan deret waktu.
 
 Analisis yang Dilakukan
 Notebook ini mencakup beberapa analisis kunci:
